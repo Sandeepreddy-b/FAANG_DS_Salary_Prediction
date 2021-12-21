@@ -11,10 +11,16 @@
 - Used GridsearchCV to find the best model
 - Deployed the model locally using Flask
 
-# Resources Used and Referred
+## Resources Used and Referred
 
 - Python Packages: Numpy, Pandas, Matplotlib, Wordcloud, Dash|Plotly, Scikit-Learn, Flask, Pickle, JSON
 
 - Data (csv file): https://www.kaggle.com/jackogozaly/data-science-and-stem-salaries
 
 - API using Flask: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+
+## Word Cloud Images (For the Overall dataset)
+
+![WC COM](./wordclouds/wordcloudscompanies.png)
+![WC JOBS](./wordclouds/wordcloudsjobs.png)
+![WC LOC](./wordclouds/wordcloudslocations.png)
