@@ -1,0 +1,651 @@
+company,totalyearlycompensation,location,yearsofexperience,year
+Facebook,370000,"Seattle, WA",8.0,2018
+Amazon,200000,"Seattle, WA",3.0,2018
+Google,690000,"Kirkland, WA",10.0,2018
+Netflix,600000,"Los Gatos, CA",3.0,2018
+Facebook,225000,"Menlo Park, CA",11.0,2018
+Amazon,130000,"Seattle, WA",7.0,2018
+Amazon,200000,"Boston, MA",5.0,2018
+Facebook,200000,"Menlo Park, CA",5.0,2018
+Apple,215000,"Cupertino, CA",0.0,2018
+Google,700000,"Seattle, WA",6.0,2018
+Amazon,260000,"Palo Alto, CA",3.0,2018
+Facebook,240000,"Seattle, WA",10.0,2018
+Amazon,300000,"Sunnyvale, CA",1.0,2018
+Google,210000,"Mountain View, CA",1.0,2018
+Google,210000,"Mountain View, CA",1.0,2018
+Amazon,115000,"Seattle, WA",6.0,2018
+Amazon,115000,"Seattle, WA",6.0,2018
+Apple,188000,"Cupertino, CA",6.0,2018
+Amazon,125000,"Seattle, WA",3.0,2018
+Apple,322000,"Cupertino, CA",6.0,2018
+Netflix,400000,"Los Gatos, CA",2.0,2018
+Amazon,157000,"Seattle, WA",2.0,2018
+Google,120000,"Santa Monica, CA",1.0,2018
+Amazon,228000,"Seattle, WA",5.0,2018
+Facebook,193000,"San Francisco, CA",1.0,2018
+Apple,425000,"Sunnyvale, CA",9.0,2018
+Facebook,385000,"Menlo Park, CA",6.0,2018
+Facebook,280000,"San Francisco, CA",3.0,2018
+Amazon,125000,"Seattle, WA",1.0,2018
+Facebook,230000,"Menlo Park, CA",0.0,2018
+Netflix,425000,"Los Gatos, CA",10.0,2018
+Amazon,400000,"Seattle, WA",10.0,2018
+Facebook,237000,"Menlo Park, CA",5.0,2018
+Amazon,169000,"Seattle, WA",6.0,2018
+Google,250000,"Mountain View, CA",6.0,2018
+Google,250000,"Mountain View, CA",6.0,2018
+Amazon,196000,"Irvine, CA",4.0,2018
+Apple,300000,"Cupertino, CA",6.0,2018
+Facebook,150000,"Menlo Park, CA",0.0,2018
+Amazon,154000,"Seattle, WA",4.0,2019
+Amazon,187000,"Seattle, WA",4.0,2019
+Amazon,209000,"Palo Alto, CA",3.0,2019
+Facebook,350000,"San Francisco, CA",4.0,2019
+Amazon,181000,"Palo Alto, CA",4.0,2019
+Apple,230000,"Cupertino, CA",1.0,2019
+Netflix,655000,"Los Gatos, CA",5.0,2019
+Amazon,123000,"Seattle, WA",0.0,2019
+Google,634000,"Mountain View, CA",8.0,2019
+AMAZON,178000,"San Francisco, CA",2.0,2019
+Facebook,201000,"Seattle, WA",2.0,2019
+Google,200000,"Mountain View, CA",0.0,2019
+Amazon,165000,"Seattle, WA",6.0,2019
+Google,225000,"Mountain View, CA",4.0,2019
+Amazon,304000,"Seattle, WA",5.0,2019
+Amazon,133000,"Seattle, WA",3.0,2019
+google,300000,"Mountain View, CA",10.0,2019
+Amazon,332000,"Palo Alto, CA",1.0,2019
+Amazon,120000,"Seattle, WA",3.0,2019
+Amazon,210000,"Seattle, WA",4.0,2019
+Google,207000,"Mountain View, CA",10.0,2019
+Amazon,220000,"Seattle, WA",5.0,2019
+Google,100000,"Toronto, ON, Canada",2.0,2019
+Amazon,294000,"Seattle, WA",1.0,2019
+Amazon,294000,"Seattle, WA",1.0,2019
+Amazon,294000,"Seattle, WA",1.0,2019
+Amazon,185000,"Palo Alto, CA",4.0,2019
+Facebook,190000,"Menlo Park, CA",2.0,2019
+Facebook,225000,"Menlo Park, CA",0.0,2019
+Facebook,395000,"Seattle, WA",15.0,2019
+Apple,350000,"Sunnyvale, CA",5.0,2019
+Apple,150000,"Cupertino, CA",4.0,2019
+Amazon,204000,"Seattle, WA",3.0,2019
+Amazon,250000,"Seattle, WA",3.0,2019
+Facebook,195000,"Menlo Park, CA",9.0,2019
+Facebook,206000,"Menlo Park, CA",4.0,2019
+Amazon,300000,"Seattle, WA",1.0,2019
+Facebook,220000,"San Francisco, CA",6.0,2019
+Amazon,274000,"San Francisco, CA",7.0,2019
+Google,220000,"Redwood City, CA",1.0,2019
+Google,230000,"Seattle, WA",3.0,2019
+Amazon,197000,"Pittsburgh, PA",5.0,2019
+Facebook,190000,"Menlo Park, CA",1.0,2019
+Facebook,350000,"Menlo Park, CA",12.0,2019
+Amazon,204000,"New York, NY",4.0,2019
+Google,248000,"Sunnyvale, CA",10.0,2019
+Netflix,368000,"Los Gatos, CA",0.0,2019
+Amazon,144000,"San Francisco, CA",1.0,2019
+Amazon,228000,"New York, NY",3.0,2019
+Amazon,181000,"New York, NY",4.0,2019
+Facebook,210000,"Menlo Park, CA",4.0,2019
+Amazon,197000,"Pittsburgh, PA",5.0,2019
+Google,265000,"Mountain View, CA",10.0,2019
+Facebook,190000,"Menlo Park, CA",3.0,2019
+Amazon,265000,"San Francisco, CA",5.0,2019
+Facebook,189000,"Menlo Park, CA",0.0,2019
+Google,430000,"San Francisco, CA",6.0,2019
+Facebook,340000,"Menlo Park, CA",10.0,2019
+Apple,212000,"Cupertino, CA",4.0,2019
+Google,257000,"Mountain View, CA",12.0,2019
+Apple,214000,"Cupertino, CA",5.0,2019
+Google,195000,"Mountain View, CA",0.0,2019
+Amazon,210000,"Pittsburgh, PA",3.0,2019
+Netflix,380000,"San Francisco, CA",8.0,2019
+AMAZON,70000,"Seattle, WA",0.0,2019
+Amazon,180000,"Seattle, WA",4.0,2019
+Amazon,185000,"Seattle, WA",6.0,2019
+Amazon,160000,"Seattle, WA",5.0,2019
+Facebook,280000,"New York, NY",8.0,2019
+Netflix,525000,"Los Angeles, CA",15.0,2019
+Google,270000,"Sunnyvale, CA",5.0,2019
+Amazon,300000,"San Francisco, CA",2.0,2019
+Amazon,168000,"New York, NY",6.0,2019
+Amazon,310000,"Seattle, WA",7.0,2019
+Amazon,170000,"New York, NY",5.0,2019
+Amazon,294000,"Seattle, WA",1.0,2019
+Amazon,192000,"Seattle, WA",10.0,2019
+Amazon,250000,"Palo Alto, CA",7.0,2019
+Facebook,240000,"Menlo Park, CA",3.0,2019
+Amazon,190000,"Seattle, WA",5.0,2019
+Amazon Web Services,300000,"Seattle, WA",4.0,2019
+Apple,258000,"Cupertino, CA",4.0,2019
+Netflix,450000,"Los Angeles, CA",4.0,2019
+Google,189000,"Sunnyvale, CA",0.0,2019
+Facebook,202000,"Menlo Park, CA",0.0,2019
+Google,273000,"Mountain View, CA",13.0,2019
+Facebook,144000,"Menlo Park, CA",1.0,2019
+Amazon,225000,"Palo Alto, CA",3.0,2019
+Apple,340000,"Cupertino, CA",8.0,2019
+Apple,290000,"Cupertino, CA",4.0,2019
+Facebook,253000,"Menlo Park, CA",5.0,2019
+Google,150000,"Brampton, ON, Canada",5.0,2019
+Amazon,257000,"Palo Alto, CA",10.0,2019
+Apple,306000,"Cupertino, CA",5.0,2019
+Facebook,274000,"Menlo Park, CA",5.0,2019
+Google,207000,"Sunnyvale, CA",0.0,2019
+Amazon,247000,"Seattle, WA",2.0,2019
+Apple,505000,"Cupertino, CA",6.0,2019
+Amazon,168000,"Seattle, WA",1.0,2019
+Facebook,253000,"New York, NY",8.0,2019
+Facebook,253000,"New York, NY",8.0,2019
+Amazon,150000,"Seattle, WA",3.0,2019
+Facebook,210000,"Washington, DC",10.0,2019
+Amazon,149000,"Seattle, WA",0.0,2019
+Netflix,465000,"Los Gatos, CA",6.0,2019
+Facebook,245000,"Menlo Park, CA",8.0,2019
+Amazon,295000,"Sunnyvale, CA",6.0,2019
+Amazon,230000,"Seattle, WA",25.0,2019
+Facebook,177000,"Menlo Park, CA",0.0,2019
+Facebook,211000,"Menlo Park, CA",2.0,2019
+Facebook,203000,"Menlo Park, CA",0.0,2019
+Facebook,570000,"Menlo Park, CA",15.0,2019
+Amazon,180000,"Seattle, WA",5.0,2019
+Netflix,420000,"Los Angeles, CA",2.0,2019
+Netflix,525000,"Los Gatos, CA",9.0,2019
+Facebook,450000,"San Francisco, CA",11.0,2019
+Apple,230000,"Cupertino, CA",10.0,2019
+Netflix,700000,"Los Angeles, CA",7.0,2019
+Amazon,500000,"Seattle, WA",9.0,2020
+Apple,350000,"Cupertino, CA",11.0,2020
+Amazon,340000,"Seattle, WA",12.0,2020
+Facebook,230000,"Seattle, WA",10.0,2020
+Apple,208000,"Cupertino, CA",0.0,2020
+Google,145000,"Berlin, BE, Germany",8.0,2020
+Apple,231000,"Cupertino, CA",10.0,2020
+Apple,210000,"Cupertino, CA",6.0,2020
+Amazon,215000,"Seattle, WA",12.0,2020
+Amazon,123000,"Seattle, WA",2.0,2020
+Amazon,270000,"New York, NY",4.0,2020
+Google,365000,"New York, NY",10.0,2020
+Amazon,215000,"Seattle, WA",7.0,2020
+Google,210000,"Seattle, WA",7.0,2020
+Facebook,231000,"San Francisco, CA",5.0,2020
+Amazon,540000,"Seattle, WA",10.0,2020
+Facebook,205000,"New York, NY",2.0,2020
+Amazon,210000,"Boston, MA",3.0,2020
+Google,346000,"Seattle, WA",12.0,2020
+Amazon,236000,"New York, NY",2.0,2020
+Facebook,324000,"San Francisco, CA",6.0,2020
+Apple,300000,"Cupertino, CA",10.0,2020
+Google,175000,"Sunnyvale, CA",0.0,2020
+Amazon,228000,"New York, NY",2.0,2020
+Facebook,250000,"Menlo Park, CA",5.0,2020
+Amazon,185000,"Seattle, WA",0.0,2020
+Amazon,175000,"Seattle, WA",3.0,2020
+Google,175000,"San Francisco, CA",1.0,2020
+Google,460000,"Mountain View, CA",10.0,2020
+Google,282000,"San Francisco, CA",9.0,2020
+Amazon,380000,"San Francisco, CA",17.0,2020
+Facebook,260000,"New York, NY",8.0,2020
+Amazon,200000,"Seattle, WA",8.0,2020
+Facebook,315000,"Menlo Park, CA",11.0,2020
+Apple,252000,"Cupertino, CA",6.0,2020
+Amazon,250000,"Seattle, WA",6.0,2020
+Facebook,157000,"Menlo Park, CA",0.0,2020
+Amazon,162000,"Seattle, WA",1.0,2020
+Netflix,467000,"Los Gatos, CA",2.0,2020
+Facebook,295000,"San Francisco, CA",5.0,2020
+Facebook,221000,"Menlo Park, CA",10.0,2020
+Amazon,275000,"San Francisco, CA",10.0,2020
+amazon,110000,"Berlin, BE, Germany",2.0,2020
+Facebook,185000,"New York, NY",3.0,2020
+Netflix,400000,"Los Gatos, CA",6.0,2020
+Amazon,93000,"Cambridge, EN, United Kingdom",2.0,2020
+Apple,252000,"Cupertino, CA",5.0,2020
+Amazon,154000,"Seattle, WA",0.0,2020
+Amazon,320000,"Seattle, WA",8.0,2020
+Facebook,200000,"Menlo Park, CA",3.0,2020
+Amazon,191000,"Palo Alto, CA",4.0,2020
+Amazon,300000,"Seattle, WA",3.0,2020
+Facebook,325000,"San Francisco, CA",7.0,2020
+AWS,230000,"New York, NY",2.0,2020
+Amazon,158000,"Seattle, WA",6.0,2020
+Amazon,167000,"Seattle, WA",2.0,2020
+Amazon,370000,"New York, NY",5.0,2020
+Apple,645000,"Redmond, WA",7.0,2020
+Amazon,222000,"Charlotte, NC",2.0,2020
+Amazon,220000,"New York, NY",3.0,2020
+Amazon,167000,"Seattle, WA",2.0,2020
+Facebook,225000,"Menlo Park, CA",2.0,2020
+Amazon,228000,"New York, NY",3.0,2020
+Netflix,375000,"Los Gatos, CA",0.0,2020
+Amazon,262000,"New York, NY",2.0,2020
+Facebook,170000,"San Francisco, CA",3.0,2020
+Google,220000,"San Francisco, CA",4.0,2020
+Google,120000,"Atlanta, GA",2.0,2020
+Google,100000,"Atlanta, GA",0.0,2020
+Google,270000,"Mountain View, CA",3.0,2020
+Netflix,450000,"San Francisco, CA",5.0,2020
+Facebook,330000,"San Francisco, CA",10.0,2020
+Amazon,314000,"Palo Alto, CA",7.0,2020
+Apple,270000,"Cupertino, CA",5.0,2020
+Amazon,216000,"Palo Alto, CA",4.0,2020
+Google,270000,"Sunnyvale, CA",4.0,2020
+Amazon,191000,"New York, NY",3.0,2020
+Apple,144000,"Cupertino, CA",2.0,2020
+Amazon,140000,"Seattle, WA",2.0,2020
+Amazon,210000,"Seattle, WA",2.0,2020
+Amazon,230000,"Seattle, WA",5.0,2020
+Google,213000,"Sunnyvale, CA",0.0,2020
+Facebook,300000,"Seattle, WA",12.0,2020
+Amazon,77000,"Luxembourg, LU, Luxembourg",2.0,2020
+Google,320000,"Seattle, WA",8.0,2020
+Amazon,210000,"Palo Alto, CA",4.0,2020
+Amazon,250000,"Seattle, WA",4.0,2020
+Apple,385000,"Cupertino, CA",6.0,2020
+Apple,382000,"Cupertino, CA",7.0,2020
+Facebook,200000,"San Francisco, CA",2.0,2020
+Amazon,176000,"Seattle, WA",5.0,2020
+Amazon,160000,"Seattle, WA",10.0,2020
+Google,350000,"San Francisco, CA",7.0,2020
+Amazon,220000,"New York, NY",4.0,2020
+Google,284000,"Mountain View, CA",11.0,2020
+Facebook,235000,"Menlo Park, CA",5.0,2020
+Facebook,300000,"Fremont, CA",11.0,2020
+Apple,220000,"Cupertino, CA",1.0,2020
+Google,246000,"Sunnyvale, CA",10.0,2020
+Facebook,300000,"San Jose, CA",20.0,2020
+Amazon,212000,"Seattle, WA",10.0,2020
+Apple,480000,"Los Angeles, CA",20.0,2020
+Apple,175000,"San Jose, CA",10.0,2020
+Amazon,250000,"San Diego, CA",5.0,2020
+Google,170000,"San Francisco, CA",3.0,2020
+Facebook,205000,"Menlo Park, CA",0.0,2020
+Amazon,185000,"Cambridge, MA",25.0,2020
+Facebook,297000,"Seattle, WA",2.0,2020
+Apple,197000,"Sunnyvale, CA",2.0,2020
+Amazon,140000,"Seattle, WA",3.0,2020
+Amazon,52000,"Hyderabad, TS, India",6.0,2020
+Apple,246000,"Cupertino, CA",6.0,2020
+Facebook,156000,"New York, NY",0.0,2020
+Amazon,185000,"Sunnyvale, CA",4.0,2020
+Google,489000,"Mountain View, CA",12.0,2020
+Apple,400000,"Cupertino, CA",17.0,2020
+Google,240000,"Mountain View, CA",9.0,2020
+Amazon,220000,"New York, NY",4.0,2020
+Facebook,210000,"Menlo Park, CA",0.0,2020
+Google,289000,"Austin, TX",15.0,2020
+Amazon,165000,"Seattle, WA",1.0,2020
+Facebook,321000,"Menlo Park, CA",15.0,2020
+Facebook,208000,"Menlo Park, CA",3.0,2020
+Apple,220000,"Sunnyvale, CA",7.0,2020
+Facebook,177000,"Menlo Park, CA",0.0,2020
+Facebook,210000,"Menlo Park, CA",3.0,2020
+Amazon,253000,"San Francisco, CA",5.0,2020
+Apple,200000,"Cupertino, CA",0.0,2020
+Google,130000,"Sunnyvale, CA",2.0,2020
+Amazon,325000,"San Francisco, CA",5.0,2020
+Facebook,212000,"Menlo Park, CA",3.0,2020
+Apple,215000,"Cupertino, CA",2.0,2020
+Apple,167000,"London, EN, United Kingdom",3.0,2020
+Amazon,40000,"Bangalore, KA, India",1.0,2020
+Amazon,340000,"Palo Alto, CA",13.0,2020
+Facebook,120000,"London, EN, United Kingdom",6.0,2020
+Apple,292000,"Cupertino, CA",15.0,2020
+Netflix,400000,"Los Gatos, CA",3.0,2020
+Netflix,473000,"Los Angeles, CA",15.0,2020
+Google,277000,"Mountain View, CA",9.0,2020
+Apple,407000,"Cupertino, CA",4.0,2020
+Amazon,212000,"Seattle, WA",12.0,2020
+Apple,310000,"Singapore, SG, Singapore",12.0,2020
+Apple,330000,"Cupertino, CA",8.0,2020
+Amazon,280000,"Seattle, WA",7.0,2020
+Facebook,228000,"Menlo Park, CA",3.0,2020
+Facebook,167000,"Menlo Park, CA",1.0,2020
+Amazon,400000,"Seattle, WA",6.0,2020
+Google,210000,"Seattle, WA",8.0,2020
+Amazon,153000,"Seattle, WA",5.0,2020
+Google,195000,"San Francisco, CA",1.0,2020
+Google,208000,"Sunnyvale, CA",7.0,2020
+Facebook,217000,"Menlo Park, CA",5.0,2020
+Amazon,126000,"Antioch, TN",1.0,2020
+Facebook,310000,"Seattle, WA",6.0,2020
+Amazon,260000,"Seattle, WA",5.0,2020
+Amazon,200000,"Vancouver, BC, Canada",5.0,2020
+Netflix,410000,"Los Gatos, CA",10.0,2020
+Amazon,300000,"Seattle, WA",7.0,2020
+Amazon,170000,"Seattle, WA",5.0,2020
+Google,175000,"London, EN, United Kingdom",4.0,2020
+Amazon,120000,"Edinburgh, SC, United Kingdom",3.0,2020
+Amazon,107000,"London, EN, United Kingdom",4.0,2020
+Apple,350000,"Sunnyvale, CA",2.0,2020
+Facebook,220000,"Seattle, WA",1.0,2020
+Facebook,170000,"Austin, TX",3.0,2020
+Apple,228000,"Sunnyvale, CA",0.0,2020
+Amazon,250000,"Seattle, WA",8.0,2020
+Amazon,154000,"Seattle, WA",0.0,2020
+Facebook,236000,"San Francisco, CA",5.0,2020
+Apple,240000,"Cupertino, CA",4.0,2020
+Amazon,225000,"Seattle, WA",1.0,2020
+Amazon,710000,"Seattle, WA",13.0,2020
+Google,345000,"Zurich, ZH, Switzerland",11.0,2020
+Amazon,240000,"Seattle, WA",7.0,2020
+Facebook,220000,"Menlo Park, CA",5.0,2020
+Google,500000,"London, EN, United Kingdom",10.0,2020
+Google,274000,"Irvine, CA",20.0,2020
+Facebook,290000,"Menlo Park, CA",4.0,2020
+Apple,232000,"Cupertino, CA",12.0,2020
+Apple,324000,"Cupertino, CA",3.0,2020
+Amazon,155000,"Seattle, WA",1.0,2020
+Amazon,127000,"Seattle, WA",3.0,2020
+Apple Inc.,300000,"Cupertino, CA",5.0,2020
+Apple,54000,"Shanghai, SH, China",7.0,2020
+Amazon,150000,"Seattle, WA",4.0,2020
+Amazon,600000,"Seattle, WA",20.0,2020
+Facebook,190000,"Menlo Park, CA",2.0,2020
+Facebook,180000,"Menlo Park, CA",2.0,2020
+Google,220000,"San Francisco, CA",6.0,2020
+Amazon,206000,"Seattle, WA",0.0,2020
+Facebook,220000,"Menlo Park, CA",3.0,2020
+Apple,232000,"San Francisco, CA",10.0,2020
+Apple,358000,"Cupertino, CA",5.0,2020
+Google,180000,"San Francisco, CA",5.0,2020
+Google,220000,"San Francisco, CA",5.0,2020
+Facebook,338000,"San Francisco, CA",10.0,2020
+Amazon,112000,"Munich, BY, Germany",7.0,2020
+Amazon,210000,"Seattle, WA",6.0,2020
+Apple,381000,"Cupertino, CA",13.0,2020
+Facebook,221000,"San Francisco, CA",3.0,2020
+Amazon,220000,"Los Angeles, CA",2.0,2020
+Facebook,250000,"Seattle, WA",8.0,2020
+Apple,350000,"Cupertino, CA",9.0,2020
+Facebook,190000,"Menlo Park, CA",2.0,2020
+Facebook,186000,"Menlo Park, CA",2.0,2020
+Facebook,164000,"Menlo Park, CA",2.0,2020
+Amazon,240000,"Seattle, WA",6.0,2020
+Amazon,180000,"Seattle, WA",4.0,2020
+Netflix,400000,"Los Gatos, CA",10.0,2020
+Facebook,220000,"Seattle, WA",7.0,2020
+Amazon,213000,"Seattle, WA",10.0,2020
+Facebook,180000,"Menlo Park, CA",2.0,2020
+Amazon,270000,"Seattle, WA",5.0,2020
+Facebook,235000,"Menlo Park, CA",4.0,2020
+Facebook,198000,"Seattle, WA",4.0,2020
+Apple,198000,"San Francisco, CA",2.0,2020
+Facebook,225000,"San Francisco, CA",7.0,2020
+Apple,185000,"Cupertino, CA",5.0,2020
+Apple,320000,"Cupertino, CA",4.0,2020
+Amazon,240000,"Seattle, WA",4.0,2020
+Amazon,215000,"Seattle, WA",10.0,2020
+Google,203000,"Kirkland, WA",5.0,2020
+Apple,250000,"Cupertino, CA",3.0,2020
+Facebook,308000,"San Francisco, CA",8.0,2020
+Facebook,236000,"Menlo Park, CA",4.0,2020
+Facebook,100000,"London, EN, United Kingdom",8.0,2020
+Netflix,700000,"Los Angeles, CA",8.0,2020
+Amazon,115000,"Seattle, WA",3.0,2020
+Facebook,565000,"Seattle, WA",10.0,2020
+Google,250000,"Mountain View, CA",2.0,2020
+Amazon,108000,"London, EN, United Kingdom",5.0,2020
+Amazon,215000,"Seattle, WA",0.0,2020
+Facebook,210000,"Menlo Park, CA",1.0,2020
+Facebook,165000,"San Francisco, CA",0.0,2020
+Facebook,228000,"Menlo Park, CA",4.0,2020
+Facebook,145000,"Menlo Park, CA",0.0,2020
+Amazon,250000,"Seattle, WA",10.0,2020
+Netflix,450000,"Los Angeles, CA",3.0,2020
+amazon,150000,"Seattle, WA",5.0,2020
+Amazon,217000,"Los Angeles, CA",4.0,2020
+Amazon,180000,"Seattle, WA",7.0,2020
+Apple,150000,"Austin, TX",5.0,2020
+Google,250000,"New York, NY",3.0,2020
+Apple,160000,"Austin, TX",6.0,2020
+Google,291000,"Sunnyvale, CA",2.0,2020
+Netflix,400000,"Los Gatos, CA",4.0,2020
+Apple,268000,"Cupertino, CA",5.0,2020
+Apple,264000,"Cupertino, CA",4.0,2020
+Amazon,535000,"Seattle, WA",15.0,2020
+Google,345000,"Sunnyvale, CA",5.0,2020
+Amazon,255000,"Seattle, WA",10.0,2020
+Google,236000,"Mountain View, CA",7.0,2020
+Facebook,220000,"Menlo Park, CA",5.0,2020
+amazon,300000,"Seattle, WA",5.0,2020
+Google,319000,"Mountain View, CA",2.0,2021
+Facebook,294000,"Seattle, WA",4.0,2021
+Facebook,185000,"San Francisco, CA",4.0,2021
+Facebook,300000,"Seattle, WA",17.0,2021
+Google,264000,"Mountain View, CA",8.0,2021
+Google,262000,"Mountain View, CA",12.0,2021
+Facebook,225000,"New York, NY",4.0,2021
+Apple,185000,"Cupertino, CA",2.0,2021
+Amazon,546000,"London, EN, United Kingdom",13.0,2021
+Google,308000,"Redwood City, CA",5.0,2021
+Facebook,233000,"New York, NY",2.0,2021
+Google,282000,"New York, NY",3.0,2021
+Facebook,495000,"Menlo Park, CA",8.0,2021
+Google,235000,"Mountain View, CA",0.0,2021
+Amazon,195000,"Toronto, ON, Canada",4.0,2021
+Google,283000,"Redwood City, CA",3.0,2021
+Apple,263000,"Austin, TX",3.0,2021
+Facebook,200000,"New York, NY",6.0,2021
+Google,216000,"Reston, VA",5.0,2021
+Amazon,160000,"Vancouver, BC, Canada",4.0,2021
+Facebook,230000,"Menlo Park, CA",6.0,2021
+Amazon,123000,"London, EN, United Kingdom",8.0,2021
+Facebook,280000,"Seattle, WA",5.0,2021
+Amazon,136000,"London, EN, United Kingdom",4.0,2021
+Facebook,214000,"Seattle, WA",4.0,2021
+Amazon,278000,"Palo Alto, CA",1.0,2021
+Amazon,583000,"San Francisco, CA",20.0,2021
+Facebook,201000,"Menlo Park, CA",3.0,2021
+Apple,227000,"Austin, TX",6.0,2021
+Amazon,205000,"Arlington, VA",12.0,2021
+Amazon,145000,"Toronto, ON, Canada",6.0,2021
+Apple,152000,"San Francisco, CA",9.0,2021
+Amazon,360000,"San Francisco, CA",11.0,2021
+Netflix,600000,"Los Angeles, CA",10.0,2021
+Google,455000,"Seattle, WA",8.0,2021
+Apple,213000,"Cupertino, CA",9.0,2021
+Facebook,215000,"Seattle, WA",8.0,2021
+Facebook,327000,"Menlo Park, CA",2.0,2021
+AMazon,266000,"Washington, DC",20.0,2021
+Facebook,211000,"San Francisco, CA",5.0,2021
+Amazon,414000,"San Francisco, CA",10.0,2021
+Facebook,305000,"San Francisco, CA",3.0,2021
+Facebook,235000,"Menlo Park, CA",1.0,2021
+Amazon,237000,"Cambridge, MA",2.0,2021
+Google,388000,"San Francisco, CA",0.0,2021
+Facebook,296000,"Menlo Park, CA",9.0,2021
+Google,205000,"Mountain View, CA",7.0,2021
+Apple,450000,"Cupertino, CA",7.0,2021
+Amazon,180000,"Seattle, WA",1.0,2021
+Facebook,297000,"Menlo Park, CA",5.0,2021
+Google,199000,"Mountain View, CA",0.0,2021
+Amazon,215000,"Dallas, TX",8.0,2021
+Facebook,257000,"Austin, TX",3.0,2021
+Apple,166000,"San Jose, CA",1.0,2021
+Facebook,291000,"New York, NY",4.0,2021
+Facebook,242000,"Menlo Park, CA",0.0,2021
+Amazon,93000,"Luxembourg, LU, Luxembourg",2.0,2021
+Facebook,297000,"New York, NY",2.0,2021
+Facebook,167000,"Singapore, SG, Singapore",5.0,2021
+Facebook,142000,"Austin, TX",3.0,2021
+Facebook,230000,"Menlo Park, CA",1.0,2021
+Facebook,210000,"Seattle, WA",2.0,2021
+Amazon,163000,"Seattle, WA",5.0,2021
+Amazon,203000,"Seattle, WA",0.0,2021
+Amazon,205000,"Seattle, WA",6.0,2021
+Facebook,375000,"Menlo Park, CA",5.0,2021
+Facebook,420000,"New York, NY",7.0,2021
+Facebook,265000,"New York, NY",5.0,2021
+Amazon,363000,"Seattle, WA",5.0,2021
+Amazon,337000,"Seattle, WA",4.0,2021
+Amazon,156000,"Seattle, WA",8.0,2021
+Amazon,180000,"Vancouver, BC, Canada",8.0,2021
+Facebook,740000,"Menlo Park, CA",10.0,2021
+Facebook,310000,"Menlo Park, CA",4.0,2021
+Facebook,234000,"Menlo Park, CA",8.0,2021
+Amazon,173000,"Seattle, WA",0.0,2021
+Amazon,200000,"Vancouver, BC, Canada",7.0,2021
+Amazon,214000,"Seattle, WA",4.0,2021
+Amazon,230000,"Cambridge, MA",8.0,2021
+Amazon,232000,"Seattle, WA",1.0,2021
+Facebook,315000,"New York, NY",14.0,2021
+Amazon,250000,"Seattle, WA",2.0,2021
+Netflix,420000,"Los Gatos, CA",6.0,2021
+Amazon,231000,"Seattle, WA",4.0,2021
+Amazon,249000,"San Francisco, CA",5.0,2021
+Facebook,300000,"Seattle, WA",4.0,2021
+Facebook,420000,"Menlo Park, CA",4.0,2021
+Amazon,127000,"Munich, BY, Germany",5.0,2021
+Amazon,198000,"Seattle, WA",2.0,2021
+Facebook,295000,"Seattle, WA",10.0,2021
+Google,266000,"Mountain View, CA",0.0,2021
+Facebook,367000,"San Francisco, CA",7.0,2021
+Amazon,283000,"Seattle, WA",7.0,2021
+Amazon,109000,"Bangalore, KA, India",6.0,2021
+Amazon,234000,"Seattle, WA",15.0,2021
+Amazon,228000,"Seattle, WA",2.0,2021
+Amazon,212000,"Seattle, WA",5.0,2021
+Amazon,245000,"New York, NY",2.0,2021
+Netflix,630000,"Los Angeles, CA",6.0,2021
+Facebook,189000,"Austin, TX",3.0,2021
+Amazon,330000,"Seattle, WA",8.0,2021
+Amazon,274000,"Santa Monica, CA",1.0,2021
+Apple,400000,"Cupertino, CA",11.0,2021
+Facebook,217000,"Menlo Park, CA",3.0,2021
+Amazon,201000,"Seattle, WA",5.0,2021
+Amazon,214000,"Seattle, WA",5.0,2021
+Google,336000,"Mountain View, CA",9.0,2021
+Amazon,317000,"Seattle, WA",1.0,2021
+Amazon,339000,"New York, NY",4.0,2021
+Facebook,165000,"Seattle, WA",0.0,2021
+Facebook,370000,"Seattle, WA",9.0,2021
+Amazon,152000,"Seattle, WA",5.0,2021
+Facebook,360000,"Menlo Park, CA",7.0,2021
+Amazon,225000,"Atlanta, GA",7.0,2021
+Google,252000,"Mountain View, CA",2.0,2021
+Amazon,190000,"Seattle, WA",10.0,2021
+Amazon,400000,"Seattle, WA",10.0,2021
+Amazon,160000,"Arlington, VA",4.0,2021
+Amazon,340000,"San Francisco, CA",7.0,2021
+Facebook,445000,"Mountain View, CA",10.0,2021
+Amazon,63000,"Hyderabad, TS, India",4.0,2021
+Amazon,266000,"New York, NY",7.0,2021
+Facebook,300000,"San Francisco, CA",10.0,2021
+Amazon,154000,"Seattle, WA",3.0,2021
+Amazon,238000,"Seattle, WA",3.0,2021
+Amazon,65000,"Bangalore, KA, India",6.0,2021
+Google,570000,"Mountain View, CA",12.0,2021
+Facebook,278000,"Menlo Park, CA",2.0,2021
+Amazon,102000,"Bengaluru, KA, India",6.0,2021
+Amazon,330000,"San Francisco, CA",6.0,2021
+Amazon,86000,"London, EN, United Kingdom",1.0,2021
+Amazon,146000,"London, EN, United Kingdom",4.0,2021
+Facebook,157000,"Menlo Park, CA",1.0,2021
+Amazon,150000,"San Francisco, CA",2.0,2021
+Amazon,114000,"Luxembourg, LU, Luxembourg",4.0,2021
+Facebook,320000,"Seattle, WA",5.0,2021
+Amazon,235000,"Seattle, WA",3.0,2021
+Facebook,101000,"Singapore, SG, Singapore",3.0,2021
+Facebook,211000,"Seattle, WA",5.0,2021
+Amazon,165000,"Seattle, WA",3.0,2021
+Google,332000,"New York, NY",5.0,2021
+Amazon,270000,"Seattle, WA",5.0,2021
+Amazon,230000,"Seattle, WA",5.0,2021
+Facebook,143000,"London, EN, United Kingdom",3.0,2021
+Facebook,167000,"Seattle, WA",4.0,2021
+Facebook,182000,"New York, NY",3.0,2021
+Apple,304000,"Cupertino, CA",6.0,2021
+Facebook,242000,"New York, NY",4.0,2021
+Amazon,259000,"Palo Alto, CA",5.0,2021
+Facebook,464000,"San Francisco, CA",8.0,2021
+Google,110000,"Seattle, WA",1.0,2021
+Facebook,272000,"Seattle, WA",16.0,2021
+Facebook,210000,"Seattle, WA",2.0,2021
+facebook,226000,"Menlo Park, CA",1.0,2021
+Apple,174000,"Austin, TX",5.0,2021
+Apple,225000,"Cupertino, CA",4.0,2021
+Amazon,193000,"Seattle, WA",6.0,2021
+Amazon,431000,"Seattle, WA",3.0,2021
+Facebook,255000,"Tulsa, OK",6.0,2021
+Amazon,204000,"Atlanta, GA",2.0,2021
+Facebook,165000,"Chicago, IL",4.0,2021
+Apple,227000,"Cupertino, CA",7.0,2021
+Amazon,360000,"Seattle, WA",10.0,2021
+Facebook,270000,"Menlo Park, CA",1.0,2021
+Google,130000,"Hawaiian Gardens, CA",2.0,2021
+Facebook,280000,"Menlo Park, CA",8.0,2021
+Netflix,525000,"Los Gatos, CA",6.0,2021
+Google,197000,"San Francisco, CA",3.0,2021
+Apple,228000,"Austin, TX",8.0,2021
+Facebook,226000,"Fremont, CA",10.0,2021
+Facebook,238000,"Menlo Park, CA",3.0,2021
+Amazon,230000,"Atlanta, GA",5.0,2021
+Amazon,101000,"Bangalore, KA, India",4.0,2021
+Facebook,250000,"Seattle, WA",2.0,2021
+Google,250000,"San Francisco, CA",1.0,2021
+Apple,225000,"Cupertino, CA",8.0,2021
+Facebook,246000,"Menlo Park, CA",2.0,2021
+Amazon,192000,"Seattle, WA",7.0,2021
+Amazon,172000,"Los Angeles, CA",7.0,2021
+Facebook,211000,"Tel Aviv, TA, Israel",8.0,2021
+Facebook,300000,"Menlo Park, CA",5.0,2021
+Facebook,385000,"Menlo Park, CA",14.0,2021
+Facebook,262000,"London, EN, United Kingdom",11.0,2021
+Amazon,93000,"Luxembourg, LU, Luxembourg",1.0,2021
+Amazon,180000,"Seattle, WA",4.0,2021
+Amazon,260000,"Seattle, WA",6.0,2021
+Amazon,213000,"Seattle, WA",9.0,2021
+Amazon,52000,"Bangalore, KA, India",2.0,2021
+Amazon,87000,"Bangalore, KA, India",4.0,2021
+Netflix,505000,"Los Gatos, CA",3.0,2021
+Amazon,246000,"Seattle, WA",5.0,2021
+Facebook,300000,"San Francisco, CA",7.0,2021
+Apple,223000,"Austin, TX",8.0,2021
+Amazon,432000,"Seattle, WA",9.0,2021
+Google,175000,"San Francisco, CA",2.0,2021
+Amazon,120000,"Munich, BY, Germany",6.0,2021
+Apple,248000,"Cupertino, CA",3.0,2021
+Facebook,357000,"San Francisco, CA",7.0,2021
+Google,225000,"Mountain View, CA",10.0,2021
+Facebook,338000,"New York, NY",2.0,2021
+Amazon,400000,"Seattle, WA",9.0,2021
+Facebook,200000,"New York, NY",6.0,2021
+Facebook,412000,"New York, NY",10.0,2021
+Amazon,330000,"Seattle, WA",5.0,2021
+Google,219000,"Mountain View, CA",9.0,2021
+Amazon,133000,"Bangalore, KA, India",15.0,2021
+Facebook,304000,"Menlo Park, CA",9.0,2021
+Facebook,265000,"Menlo Park, CA",11.0,2021
+Amazon,157000,"Seattle, WA",0.0,2021
+Amazon,120000,"Taipei, TP, Taiwan",9.0,2021
+Apple,265000,"Cupertino, CA",6.0,2021
+Amazon,179000,"Seattle, WA",2.0,2021
+Amazon.com,163000,"Seattle, WA",10.0,2021
+Amazon,190000,"Seattle, WA",5.0,2021
+Facebook,302000,"Menlo Park, CA",9.0,2021
+Netflix,400000,"Los Gatos, CA",4.0,2021
+Amazon,185000,"Seattle, WA",3.0,2021
+Amazon,193000,"Seattle, WA",9.0,2021
+Amazon,267000,"Seattle, WA",10.0,2021
+Amazon,250000,"Seattle, WA",8.0,2021
+Amazon,200000,"Boston, MA",3.0,2021
+Facebook,334000,"New York, NY",4.0,2021
+Amazon,232000,"Seattle, WA",6.0,2021
+Apple,227000,"Cupertino, CA",8.0,2021
+Facebook,700000,"Menlo Park, CA",16.0,2021
+Facebook,631000,"New York, NY",11.0,2021
+Netflix,605000,"Los Gatos, CA",5.0,2021
+Facebook,185000,"Tel Aviv, TA, Israel",5.0,2021
+Facebook,233000,"Menlo Park, CA",2.0,2021
+Amazon,155000,"Seattle, WA",6.0,2018
+Amazon,230000,"Seattle, WA",5.0,2018
+Amazon,140000,"Seattle, WA",2.0,2018
+Amazon,250000,"Palo Alto, CA",8.0,2018
+Amazon,185000,"Seattle, WA",7.0,2018
+Amazon,260000,"Palo Alto, CA",10.0,2019
+Amazon,740000,"Seattle, WA",12.0,2019
+Facebook,150000,"Singapore, SG, Singapore",0.0,2018
+Google,685000,"Kirkland, WA",22.0,2018
