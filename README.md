@@ -1,6 +1,6 @@
 # Final Project: FAANG (Facebook Amazon Apple Netflix Google) Data Scientist Salary Predictor
 
-![FAANG LOGO](./faang.jpg)
+![FAANG LOGO](./faang.png)
 
 - Performed Analysis of over 15 different job salaries (their Minimum, Maximum and Average)
 - Built Wordclouds for companies, job titles and locations
