@@ -17,8 +17,7 @@
 
 - Transformed the categorical variables into dummy variables. 
 - Split the data into train and tests sets with a test size of 20%.
-
-I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model
+- I tried three different models and evaluated them using Mean Absolute Error. 
 
 - Linear Regression – Baseline for the model
 - Lasso Regression – Tried to normalize the sparse data
